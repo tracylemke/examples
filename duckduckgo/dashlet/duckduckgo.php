@@ -40,7 +40,7 @@ $viewdefs['Home']['base']['view']['duckduckgo'] = array(
             ),
             'preview' => array(
                 'title' => 'LBL_DASHLET_DUCKDUCKGO_NAME',
-                'url' => 'https://duckduckgo.com/',
+                'baseurl' => 'https://duckduckgo.com/',
             ),
             'filter' => array(
                 'module' => array(
